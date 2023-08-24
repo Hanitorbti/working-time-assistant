@@ -14,3 +14,6 @@ you need these pakeges to run this script:
 -win10toast
 
 run 'say time.py' to see your activity details.
+
+you history will save in a folder "data" 
+to see a chart from your activity use "BarChart.py"
