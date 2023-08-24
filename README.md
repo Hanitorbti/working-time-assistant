@@ -17,3 +17,4 @@ run 'say time.py' to see your activity details.
 
 you history will save in a folder "data" 
 to see a chart from your activity use "BarChart.py"
+write year and month like this 8/2023 => 23, 8
